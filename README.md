@@ -4,7 +4,7 @@
   ### :unicorn: About Me :
 
 <p align="center">
-  <img src="https://ibb.co/V0zvL4mZ/IMG-20241231-WA0096.jpg" />
+  <img src="https://files.catbox.moe/esnasv.jpg" />
 </p>
 
 - 👋 Hi, I’m Awais Zafar
